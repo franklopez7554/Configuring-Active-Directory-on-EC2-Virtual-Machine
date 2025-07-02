@@ -71,4 +71,4 @@ This SOP outlines the steps to configure Active Directory on a provisioned EC2 v
 - Keep a checklist of the steps to avoid missing any important configurations.
 - Document any errors or issues encountered during the process for future reference.
 
-# Configuring-Active-Directory-on-EC2-Virtual-Machine
+
